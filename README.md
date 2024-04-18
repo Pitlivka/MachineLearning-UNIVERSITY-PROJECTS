@@ -1,3 +1,4 @@
 # UNIVERSITY project from Machine learning and Artificial inteligence module.
 
-All projects are created in JUPYTER notebooks 
+Project in Jupyter notebook. CNN and Autoencoders techniqes used to train two datasets for image recognition. 
+
